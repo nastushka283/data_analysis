@@ -1,6 +1,6 @@
 ---
-title: "HW1"
-author: "Lubin"
+title: "hw01"
+author: "Petrenko"
 ---
 
 **Работа с данными**
